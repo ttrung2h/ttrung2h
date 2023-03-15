@@ -9,9 +9,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ttrung2h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ttrung2h" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hoang trung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoang trung" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hoang-trung-126082244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoang-trung-126082244" height="30" width="40" /></a>
 <a href="https://kaggle.com/hoangtrung456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hoangtrung456" height="30" width="40" /></a>
-<a href="https://fb.com/trung hoàng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trung hoàng" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100046550647602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100046550647602" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/trungnhhe163117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trungnhhe163117" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
