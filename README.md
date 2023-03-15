@@ -1,4 +1,6 @@
-<h3 align="center">Junior at FPT University, learning AI and Data Scientist.</h3>
+[![MasterHead](https://d1aueex22ha5si.cloudfront.net/Conference/1209/BackGround/Machine%20Learning-1599808127617.gif)](https://github.com/ttrung2h)
+<h1 align="center">Hi 👋, I'm Ttrung</h1>
+<h2 align="center">Junior at FPT University, learning AI and Data Scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttrung2h&label=Profile%20views&color=0e75b6&style=flat" alt="ttrung2h" /> </p>
 
@@ -6,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ttrung2h" target="blank"><img src="https://img.shields.io/twitter/follow/@ttrung2h?logo=twitter&style=for-the-badge" alt="@ttrung2h" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ttrung2h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ttrung2h" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hoang-trung-126082244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoang-trung-126082244" height="30" width="40" /></a>
