@@ -4,25 +4,20 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGViZjBhYWQ4MjhlOWVlMDAyMDQ4MmNhNzU1OTNmMDVmNjBkZmVkNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ttrung2h&label=Profile%20views&color=0e75b6&style=flat" alt="ttrung2h" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ttrung2h" target="blank"><img src="https://img.shields.io/twitter/follow/@ttrung2h?logo=twitter&style=for-the-badge" alt="@ttrung2h" /></a> </p>
 
 - 🔭 I’m currently studing at  **FPT University**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 📫 How to reach me **trieusoncv@gmail.com**
+- 📫 How to reach me **hoangtrungcongviec@gmail.com**
 
-- ⚡ Fun fact **I am ...**
+- ⚡ Fun fact **I am lazy**
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ttrung2h&label=Profile%20views&color=0e75b6&style=flat" alt="ttrung2h" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttrung2h" alt="ttrung2h" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@ttrung2h" target="blank"><img src="https://img.shields.io/twitter/follow/@ttrung2h?logo=twitter&style=for-the-badge" alt="@ttrung2h" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ttrung2h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ttrung2h" height="30" width="40" /></a>
