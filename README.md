@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ttrung2h)
+[![MasterHead](https://github.com/ttrung2h)]
 <h1 align="center">Hi 👋, I'm Ttrung</h1>
 <h2 align="center">Junior at FPT University, learning AI and Data Scientist.</h3>
 
