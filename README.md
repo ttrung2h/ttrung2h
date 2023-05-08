@@ -1,8 +1,8 @@
-[![MasterHead](https://d1aueex22ha5si.cloudfront.net/Conference/1209/BackGround/Machine%20Learning-1599808127617.gif)](https://github.com/ttrung2h)
+[![MasterHead](https://github.com/ttrung2h)
 <h1 align="center">Hi 👋, I'm Ttrung</h1>
 <h2 align="center">Junior at FPT University, learning AI and Data Scientist.</h3>
 
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGViZjBhYWQ4MjhlOWVlMDAyMDQ4MmNhNzU1OTNmMDVmNjBkZmVkNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttrung2h&label=Profile%20views&color=0e75b6&style=flat" alt="ttrung2h" /> </p>
 
